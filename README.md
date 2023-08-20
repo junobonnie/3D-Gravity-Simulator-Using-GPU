@@ -5,4 +5,4 @@ Move camera position: w,a,s,d, q,e
 
 Move camera view direction: Mouse drag(Left mouse button)
 
-Pause: spasebar
+Pause: spacebar
